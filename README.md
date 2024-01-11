@@ -1,1 +1,1 @@
-# assignment_2_MLOps
+# Experimentation using ML pipelines on AWS SageMaker
